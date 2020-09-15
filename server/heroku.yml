@@ -1,0 +1,5 @@
+build:
+    docker:
+        video-chat-server: Dockerfile
+run:
+    video-chat-server: npm start
